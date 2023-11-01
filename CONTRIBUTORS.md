@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [PRATINAV AGRAWAL](https://github.com/ctrl-pt)
+- Place: San Jose, CA, USA
+- Bio: Student Developer
+- GitHub: [pratinav](https://github.com/ctrl-pt)
